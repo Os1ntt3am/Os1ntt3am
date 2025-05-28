@@ -39,3 +39,7 @@ https://os1ntt3am.github.io/task&writeup
 ### 3.Manipulating coordinates
 
 ### 4.Tasks&Writeup
+Here you can find all the tasks and writeup from the OSINT mindset forum.
+![изображение](https://github.com/user-attachments/assets/f12e3884-dfb9-43bb-8c5f-aced9cbec449)
+
+
