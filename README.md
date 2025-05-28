@@ -53,10 +53,7 @@ There's a coordinate converter and a calculator for the distance between two poi
 
 ### 4.Tasks&Writeup
 
-Here you can find all the tasks and writeup from the OSINT mindset forum.
+Here you can find all the tasks and writeup from the OSINT mindset forum.![изображение](https://github.com/user-attachments/assets/91e8c33f-05c1-43da-b023-8baf730fb1f9)
 
 ![изображение](https://github.com/user-attachments/assets/f12e3884-dfb9-43bb-8c5f-aced9cbec449)
-
-![изображение](https://github.com/user-attachments/assets/91e8c33f-05c1-43da-b023-8baf730fb1f9)
-
 
