@@ -29,6 +29,11 @@ https://os1ntt3am.github.io/cords/
 
 ![photo_2025-05-28_23-01-05](https://github.com/user-attachments/assets/54ffa0a9-9575-4d81-8da0-871b5e679503)
 
+red - the main node (unfolding)
+
+blue - branches (unfolding)
+
+green - endpoints (do not expand)
 
 ### 3.Manipulating coordinates
 
