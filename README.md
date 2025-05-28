@@ -9,7 +9,7 @@ https://os1ntt3am.github.io/interactive-graph/
 https://os1ntt3am.github.io/cords/
 
 ### 4.Tasks&Writeup
-https://os1ntt3am.github.iotask&writeup
+https://os1ntt3am.github.io/task&writeup
 
 # Review
 
