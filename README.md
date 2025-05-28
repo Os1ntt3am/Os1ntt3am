@@ -31,7 +31,7 @@ https://os1ntt3am.github.io/cords/
 
 red - the main node (unfolding)
 
-blue - branches (unfolding)
+<span style="color: blue;">blue - branches (unfolding)</span>
 
 green - endpoints (do not expand)
 
